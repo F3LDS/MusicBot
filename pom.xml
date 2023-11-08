@@ -49,10 +49,10 @@
             <version>2.0.2</version>
         </dependency -->
         <dependency>
-	    <groupId>com.github.jagrosh</groupId>
-	    <artifactId>lavaplayer</artifactId>
-	    <version>jmusicbot-SNAPSHOT</version>
-	</dependency>
+            <groupId>dev.arbjerg</groupId>
+            <artifactId>lavaplayer</artifactId>
+            <version>2.0.2</version>
+        </dependency>
         <!-- this is needed, but isn't actually hosted anywhere anymore... uh -->
         <!--dependency>
             <groupId>com.sedmelluq</groupId>
